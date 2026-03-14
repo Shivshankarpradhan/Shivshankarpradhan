@@ -4,7 +4,7 @@
 
 🌱 Passionate about building **unique full-stack projects** and solving **DSA challenges**.  
 🚀 Currently learning **MERN Stack** & sharpening **Data Structures & Algorithms** skills.  
-🎯 Goal: **Google Winter Internship 2025** + **GSoC 2025** contributor.  
+ 
 
 ---
 
