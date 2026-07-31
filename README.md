@@ -1,60 +1,257 @@
-# 👋 Hi, I'm Shiv Shankar Pradhan (Swadhin)  
+# 👋 Hi, I'm Shiv Shankar Pradhan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00C853&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;DSA+Practitioner;Aspiring+Google+Intern+2025)](https://git.io/typing-svg)
+<div align="center">
 
-🌱 Passionate about building **unique full-stack projects** and solving **DSA challenges**.  
-🚀 Currently learning **MERN Stack** & sharpening **Data Structures & Algorithms** skills.  
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00B0FF&height=250&section=header&text=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&weight=600\&size=28\&duration=3000\&pause=1000\&color=00C853\&center=true\&vCenter=true\&width=700\&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;Building+AI+Powered+Applications)](https://git.io/typing-svg)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shiv-shankar-pradhan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivshankarpradhan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+![](https://komarev.com/ghpvc/?username=Shivshankarpradhan\&style=for-the-badge\&color=00C853)
+
+</div>
 
 ---
 
-## 💻 Tech Stack
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+# 💫 About Me
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+💻 Full-Stack Developer passionate about building scalable and AI-powered web applications.
 
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+🚀 Experienced with the **MERN Stack** and continuously improving my backend architecture skills.
+
+🧠 Strong interest in **Data Structures & Algorithms**, **System Design**, and **Open Source**.
+
+⚙️ Currently learning **Docker**, **CI/CD**, and **Kubernetes**.
+
+🌱 I enjoy transforming ideas into real-world products with clean UI and efficient backend systems.
 
 ---
 
-## 🚀 Current Projects
-- **🎵 Musipy** – A modern music player web app  
-- **🌍 Wanderlust** – A full-stack travel booking platform with user authentication, property listing, and search filters.
-- **💹 Zerodha Clone** – A replica of the Zerodha stock trading platform with live data charts and order placement simulation.
-- **🎵 Spotify Clone** – A music streaming application with playlists, albums, and responsive UI. 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shivshankarpradhan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🏆 Achievements & Goals
-- 🔹 **Completed Full-Stack Development (MERN)**  
-- 🔹 **Solved 150+ DSA Problems**  
-- 🔹 Preparing for **Google Winter Internship 2026**  
-- 🔹 Aspiring **GSoC 2026 Contributor**  
+# 💻 Tech Stack
+
+### Languages
+
+* Java
+* JavaScript
+
+### Frontend
+
+* React.js
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Database
+
+* MongoDB
+* Mongoose
+
+### Cloud & Deployment
+
+* Cloudinary
+* Render
+* Vercel
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+### Currently Learning
+
+* Docker (Basic)
+* CI/CD
+* Kubernetes (Basic)
+* System Design
 
 ---
 
-## 📊 GitHub Stats
-![Shiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivshankarpradhan&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Shivshankarpradhan&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivshankarpradhan&layout=compact&theme=tokyonight)
+# 🚀 Featured Projects
+
+## 🤖 GearUpGPT
+
+**AI Resume Builder for Blue-Collar Professionals**
+
+**Tech Stack**
+
+* React
+* Node.js
+* Express
+* MongoDB
+* Gemini API
+* Speech-to-Text
+
+**Features**
+
+* AI Resume Generation
+* Voice Input
+* ATS-Friendly Resume
+* Modern Dashboard
+* PDF Export
 
 ---
 
-⭐ **"Code, Learn, Repeat — until your dreams compile successfully."**  
+## 🎥 Videssax
+
+**Real-Time Video Conferencing Platform**
+
+**Tech Stack**
+
+* React
+* Node.js
+* Express
+* Socket.io
+* WebRTC
+* MongoDB
+
+**Features**
+
+* Video Calling
+* Screen Sharing
+* Chat
+* Authentication
+* Meeting Rooms
+
+---
+
+## 🌍 Wanderlust
+
+**Airbnb Inspired Travel Booking Platform**
+
+**Tech Stack**
+
+* Node.js
+* Express
+* MongoDB
+* Cloudinary
+* Mapbox
+
+**Features**
+
+* Authentication
+* Property Listings
+* Image Upload
+* Maps Integration
+* Reviews
+
+---
+
+## 📈 Zerodha Clone
+
+**Stock Trading Dashboard**
+
+* React
+* Chart.js
+* Responsive Dashboard
+
+---
+
+## 🎵 Musipy
+
+Modern Music Streaming Web Application
+
+---
+
+# 🏆 Achievements
+
+* ⭐ Solved **150+ DSA Problems**
+* ⭐ Built **5+ Full-Stack Projects**
+* ⭐ Strong MERN Stack Foundation
+* ⭐ Exploring AI-Powered Applications
+* ⭐ Learning DevOps Technologies
+* ⭐ Open Source Enthusiast
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivshankarpradhan&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivshankarpradhan&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shivshankarpradhan&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivshankarpradhan&theme=tokyo-night"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shivshankarpradhan&theme=tokyonight&row=2&column=4"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Shivshankarpradhan/Shivshankarpradhan/output/github-contribution-grid-snake.svg"/>
+
+---
+
+# 💬 Favorite Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B0FF,100:00C853&height=120&section=footer"/>
+
+</div>
+
 
