@@ -38,7 +38,7 @@ philosophy: "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+<a href="https://www.linkedin.com/in/shiv-shankar-pradhan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-2E1A47?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
 </a>
 <a href="mailto:YOUR-EMAIL@gmail.com">
@@ -49,6 +49,9 @@ philosophy: "Code. Learn. Build. Repeat."
 </a>
 <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-2E1A47?style=for-the-badge&logo=vercel&logoColor=FFD700" />
+</a>
+<a href="https://leetcode.com/u/cARef5gpG2/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-2E1A47?style=for-the-badge&logo=leetcode&logoColor=FFD700" />
 </a>
 
 </div>
@@ -210,6 +213,12 @@ Always building, always shipping. Check out my pinned repos for the latest work.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivshankarpradhan&hide_border=true&background=0D0221&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivshankarpradhan&bg_color=0D0221&color=FFD700&line=6A0DAD&point=FFFFFF&hide_border=true" width="95%"/>
+
+<br/>
+
+### 🧩 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/cARef5gpG2?theme=dark&font=baloo2&ext=heatmap" width="70%"/>
 
 </div>
 
